@@ -1,6 +1,6 @@
 # automatic phone number selection
 
-自动选号工具
+Python实现的基于OCR的自动选号工具
 
 ## 1. 项目简介
 
@@ -15,7 +15,7 @@
 └── requirements.txt
 ```
 
-## 3. 算法说明
+## 3. 默认算法说明
 
 默认的算法是寻找和目标手机号码的差距小于4个数字的号码，逻辑实现在check_number函数中，可以根据实际需求进行修改。
 
