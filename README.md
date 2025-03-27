@@ -1,6 +1,6 @@
 # automatic phone number selection
 
-自动选择手机号码
+自动选号工具
 
 ## 1. 项目简介
 
@@ -12,8 +12,7 @@
 .
 ├── README.md
 ├── auto_select_phone_number.py
-├── requirements.txt
-└── test.py
+└── requirements.txt
 ```
 
 ## 3. 算法说明
